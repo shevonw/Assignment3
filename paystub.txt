@@ -1,0 +1,20 @@
+Employee Name: Jane Smith
+Date of Payment: 2023-04-30
+Payment Amount: $750.0
+
+Employee Name: Jane Smith
+Date of Payment: 2023-04-30
+Payment Amount: $750.0
+
+Employee Name: Bob Johnson
+Date of Payment: 2023-04-30
+Payment Amount: $250.0
+
+Employee Name: Mike Williams
+Date of Payment: 2023-04-30
+Payment Amount: $2600.0
+
+Invoice Part Number: 01234
+Date of Payment: 2023-04-30
+Payment Amount: $119.69999999999999
+
